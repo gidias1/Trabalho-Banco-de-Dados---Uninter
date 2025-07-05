@@ -3,7 +3,7 @@ Trabalho de Banco de Dados - UNINTER
 Aluna: Giovanna Mercêz Dias
 Curso: Análise e Desenvolvimento de Sistemas
 
-1ª Etapa - Modelagem (30 pontos)
+1ª Etapa - Modelagem
 Desenvolvimento do Modelo Entidade-Relacionamento (MER) para uma Rede de Hotéis, incluindo:
 
 Entidades: Funcionário, Hotel, Quarto, Hóspede, Reserva, Pagamento
@@ -12,7 +12,7 @@ Atributos e relacionamentos conforme regras de negócio especificadas
 
 Cardinalidades, chaves primárias e estrangeiras
 
-2ª Etapa - Implementação (30 pontos)
+2ª Etapa - Implementação 
 Criação do banco de dados "LocadoraVeiculos" no MySQL Workbench
 
 Implementação das tabelas conforme modelo relacional fornecido:
